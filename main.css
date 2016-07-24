@@ -3,4 +3,6 @@ h1{
 }
 body{
   padding: 5%;
+  line-height: 200%;
+  font-size: 20px;
 }
